@@ -1,0 +1,289 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 192rem;
+}.desktop-3-crq {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-3-crq .auto-group-r2gu-yBb {
+  box-sizing: border-box;
+  padding: 2.4rem 7.7rem 9.741rem 11.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-r2gu-yBb .auto-group-jgnh-hNV {
+  margin: 0rem 60.9rem 0.6rem 43.4rem;
+  width: calc(100% - 104.3rem);
+  height: 5.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-r2gu-yBb .auto-group-jgnh-hNV .e-blten-QGu {
+  width: 20.9rem;
+  height: 5.9rem;
+  position: absolute;
+  left: 24.1rem;
+  top: 0;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-3-crq .auto-group-r2gu-yBb .auto-group-jgnh-hNV .e-blten-QGu .e-blten-QGu-sub-0 {
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-crq .auto-group-r2gu-yBb .auto-group-jgnh-hNV .e-blten-QGu .e-blten-QGu-sub-1 {
+}
+.desktop-3-crq .auto-group-r2gu-yBb .auto-group-jgnh-hNV .line-4-S77 {
+  width: 68.2rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 4.5969rem;
+  background-color: #94227b;
+}
+.desktop-3-crq .auto-group-r2gu-yBb .haber-ve-kampanyalarmzdan-bilgi-almak-iin-e-bltenimize-abone-olabilirsiniz-xLM {
+  margin: 0rem 0rem 3.3rem 28.1rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-r2gu-yBb .haber-ve-kampanyalarmzdan-bilgi-almak-iin-e-bltenimize-abone-olabilirsiniz-xLM .haber-ve-kampanyalarmzdan-bilgi-almak-iin-e-bltenimize-abone-olabilirsiniz-xLM-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-crq .auto-group-r2gu-yBb .haber-ve-kampanyalarmzdan-bilgi-almak-iin-e-bltenimize-abone-olabilirsiniz-xLM .haber-ve-kampanyalarmzdan-bilgi-almak-iin-e-bltenimize-abone-olabilirsiniz-xLM-sub-1 {
+}
+.desktop-3-crq .auto-group-r2gu-yBb .auto-group-qcmj-ra9 {
+  margin: 0rem 61.7rem 1.55rem 41.6rem;
+  width: calc(100% - 103.3rem);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #651e67;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-r2gu-yBb .auto-group-qcmj-ra9 .auto-group-qcmj-ra9-sub-0 {
+}
+.desktop-3-crq .auto-group-r2gu-yBb .auto-group-qcmj-ra9 .auto-group-qcmj-ra9-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-crq .auto-group-r2gu-yBb .gnder-Ltd {
+  margin: 0rem 17.7rem 2rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-r2gu-yBb .baklava-hakknda-baklava-osmanl-saray-mutfann-tatllar-arasnda-yer-alr-baklava-tm-dnyada-tannarak-geleneksel-trk-tatls-olarak-kabul-edilmitir-kendine-has-lezzeti-ve-ince-hamurunun-katlarnn-fazlal-ile-zellikleri-aranan-baklava-erbetli-tatllarn-en-banda-yer-almaktadr-hac-hasan-oullar-markas-her-trl-baklava-eitlerini-reterek-mterilerine-sunmaktadr-1970li-yllardan-bu-gne-kadar-baklava-ve-tatl-eitleri-alannda-hizmet-vermektedir-hac-hasan-oullar-retimi-olan-birok-baklava-eidi-bulunmaktadr-baklava-eitleri-arasnda-cevizli-baklava-fstkl-baklava-souk-baklava-stl-nuriye-cevizli-incir-havu-dilim-cevizli-kvrm-baklava-fstkl-midye-baklava-cevizli-midye-baklava-fstkl-burma-baklava-cevizli-burma-baklava-fstkl-biyet-kuru-baklava-ev-baklavas-cevizli-koza-baklava-yer-almaktadr-baklava-eitleri-cevizli-baklava-cevizli-baklava-en-yksek-kalitede-cevizler-kullanlarak-retilen-el-amas-baklava-hamuru-ile-oluturulan-bir-lezzettir-cevizli-baklava-erbetinin-kvam-ve-damaklarda-brakt-lezzet-ile-olduka-tercih-edilen-bir-baklava-eidi-olmaktadr-025-gr-baklava-ierisinde-5ile-6adet-dilim-050-gr-baklavada-11ile-12adet-baklava-dilim-1-kg-baklavada-23ile-24adet-baklava-dilim-15-kg-baklavada-34ile-35adet-arasnda-baklava-dilimi-yer-almaktadr-baklava-dilimleri-el-kesimi-ve-erbet-younluuna-gre-farkl-olabilmektedir-05-kg-cevizli-baklava-fiyat-ise-100tl-olarak-belirlenmektedir-RfB {
+  max-width: 172.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-r2gu-yBb .baklava-hakknda-baklava-osmanl-saray-mutfann-tatllar-arasnda-yer-alr-baklava-tm-dnyada-tannarak-geleneksel-trk-tatls-olarak-kabul-edilmitir-kendine-has-lezzeti-ve-ince-hamurunun-katlarnn-fazlal-ile-zellikleri-aranan-baklava-erbetli-tatllarn-en-banda-yer-almaktadr-hac-hasan-oullar-markas-her-trl-baklava-eitlerini-reterek-mterilerine-sunmaktadr-1970li-yllardan-bu-gne-kadar-baklava-ve-tatl-eitleri-alannda-hizmet-vermektedir-hac-hasan-oullar-retimi-olan-birok-baklava-eidi-bulunmaktadr-baklava-eitleri-arasnda-cevizli-baklava-fstkl-baklava-souk-baklava-stl-nuriye-cevizli-incir-havu-dilim-cevizli-kvrm-baklava-fstkl-midye-baklava-cevizli-midye-baklava-fstkl-burma-baklava-cevizli-burma-baklava-fstkl-biyet-kuru-baklava-ev-baklavas-cevizli-koza-baklava-yer-almaktadr-baklava-eitleri-cevizli-baklava-cevizli-baklava-en-yksek-kalitede-cevizler-kullanlarak-retilen-el-amas-baklava-hamuru-ile-oluturulan-bir-lezzettir-cevizli-baklava-erbetinin-kvam-ve-damaklarda-brakt-lezzet-ile-olduka-tercih-edilen-bir-baklava-eidi-olmaktadr-025-gr-baklava-ierisinde-5ile-6adet-dilim-050-gr-baklavada-11ile-12adet-baklava-dilim-1-kg-baklavada-23ile-24adet-baklava-dilim-15-kg-baklavada-34ile-35adet-arasnda-baklava-dilimi-yer-almaktadr-baklava-dilimleri-el-kesimi-ve-erbet-younluuna-gre-farkl-olabilmektedir-05-kg-cevizli-baklava-fiyat-ise-100tl-olarak-belirlenmektedir-RfB .baklava-hakknda-baklava-osmanl-saray-mutfann-tatllar-arasnda-yer-alr-baklava-tm-dnyada-tannarak-geleneksel-trk-tatls-olarak-kabul-edilmitir-kendine-has-lezzeti-ve-ince-hamurunun-katlarnn-fazlal-ile-zellikleri-aranan-baklava-erbetli-tatllarn-en-banda-yer-almaktadr-hac-hasan-oullar-markas-her-trl-baklava-eitlerini-reterek-mterilerine-sunmaktadr-1970li-yllardan-bu-gne-kadar-baklava-ve-tatl-eitleri-alannda-hizmet-vermektedir-hac-hasan-oullar-retimi-olan-birok-baklava-eidi-bulunmaktadr-baklava-eitleri-arasnda-cevizli-baklava-fstkl-baklava-souk-baklava-stl-nuriye-cevizli-incir-havu-dilim-cevizli-kvrm-baklava-fstkl-midye-baklava-cevizli-midye-baklava-fstkl-burma-baklava-cevizli-burma-baklava-fstkl-biyet-kuru-baklava-ev-baklavas-cevizli-koza-baklava-yer-almaktadr-baklava-eitleri-cevizli-baklava-cevizli-baklava-en-yksek-kalitede-cevizler-kullanlarak-retilen-el-amas-baklava-hamuru-ile-oluturulan-bir-lezzettir-cevizli-baklava-erbetinin-kvam-ve-damaklarda-brakt-lezzet-ile-olduka-tercih-edilen-bir-baklava-eidi-olmaktadr-025-gr-baklava-ierisinde-5ile-6adet-dilim-050-gr-baklavada-11ile-12adet-baklava-dilim-1-kg-baklavada-23ile-24adet-baklava-dilim-15-kg-baklavada-34ile-35adet-arasnda-baklava-dilimi-yer-almaktadr-baklava-dilimleri-el-kesimi-ve-erbet-younluuna-gre-farkl-olabilmektedir-05-kg-cevizli-baklava-fiyat-ise-100tl-olarak-belirlenmektedir-RfB-sub-0 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-crq .auto-group-r2gu-yBb .baklava-hakknda-baklava-osmanl-saray-mutfann-tatllar-arasnda-yer-alr-baklava-tm-dnyada-tannarak-geleneksel-trk-tatls-olarak-kabul-edilmitir-kendine-has-lezzeti-ve-ince-hamurunun-katlarnn-fazlal-ile-zellikleri-aranan-baklava-erbetli-tatllarn-en-banda-yer-almaktadr-hac-hasan-oullar-markas-her-trl-baklava-eitlerini-reterek-mterilerine-sunmaktadr-1970li-yllardan-bu-gne-kadar-baklava-ve-tatl-eitleri-alannda-hizmet-vermektedir-hac-hasan-oullar-retimi-olan-birok-baklava-eidi-bulunmaktadr-baklava-eitleri-arasnda-cevizli-baklava-fstkl-baklava-souk-baklava-stl-nuriye-cevizli-incir-havu-dilim-cevizli-kvrm-baklava-fstkl-midye-baklava-cevizli-midye-baklava-fstkl-burma-baklava-cevizli-burma-baklava-fstkl-biyet-kuru-baklava-ev-baklavas-cevizli-koza-baklava-yer-almaktadr-baklava-eitleri-cevizli-baklava-cevizli-baklava-en-yksek-kalitede-cevizler-kullanlarak-retilen-el-amas-baklava-hamuru-ile-oluturulan-bir-lezzettir-cevizli-baklava-erbetinin-kvam-ve-damaklarda-brakt-lezzet-ile-olduka-tercih-edilen-bir-baklava-eidi-olmaktadr-025-gr-baklava-ierisinde-5ile-6adet-dilim-050-gr-baklavada-11ile-12adet-baklava-dilim-1-kg-baklavada-23ile-24adet-baklava-dilim-15-kg-baklavada-34ile-35adet-arasnda-baklava-dilimi-yer-almaktadr-baklava-dilimleri-el-kesimi-ve-erbet-younluuna-gre-farkl-olabilmektedir-05-kg-cevizli-baklava-fiyat-ise-100tl-olarak-belirlenmektedir-RfB .baklava-hakknda-baklava-osmanl-saray-mutfann-tatllar-arasnda-yer-alr-baklava-tm-dnyada-tannarak-geleneksel-trk-tatls-olarak-kabul-edilmitir-kendine-has-lezzeti-ve-ince-hamurunun-katlarnn-fazlal-ile-zellikleri-aranan-baklava-erbetli-tatllarn-en-banda-yer-almaktadr-hac-hasan-oullar-markas-her-trl-baklava-eitlerini-reterek-mterilerine-sunmaktadr-1970li-yllardan-bu-gne-kadar-baklava-ve-tatl-eitleri-alannda-hizmet-vermektedir-hac-hasan-oullar-retimi-olan-birok-baklava-eidi-bulunmaktadr-baklava-eitleri-arasnda-cevizli-baklava-fstkl-baklava-souk-baklava-stl-nuriye-cevizli-incir-havu-dilim-cevizli-kvrm-baklava-fstkl-midye-baklava-cevizli-midye-baklava-fstkl-burma-baklava-cevizli-burma-baklava-fstkl-biyet-kuru-baklava-ev-baklavas-cevizli-koza-baklava-yer-almaktadr-baklava-eitleri-cevizli-baklava-cevizli-baklava-en-yksek-kalitede-cevizler-kullanlarak-retilen-el-amas-baklava-hamuru-ile-oluturulan-bir-lezzettir-cevizli-baklava-erbetinin-kvam-ve-damaklarda-brakt-lezzet-ile-olduka-tercih-edilen-bir-baklava-eidi-olmaktadr-025-gr-baklava-ierisinde-5ile-6adet-dilim-050-gr-baklavada-11ile-12adet-baklava-dilim-1-kg-baklavada-23ile-24adet-baklava-dilim-15-kg-baklavada-34ile-35adet-arasnda-baklava-dilimi-yer-almaktadr-baklava-dilimleri-el-kesimi-ve-erbet-younluuna-gre-farkl-olabilmektedir-05-kg-cevizli-baklava-fiyat-ise-100tl-olarak-belirlenmektedir-RfB-sub-1 {
+}
+.desktop-3-crq .auto-group-47nu-3LR {
+  box-sizing: border-box;
+  padding: 4.009rem 86.887rem 4.009rem 4.439rem;
+  width: 193.2763rem;
+  height: 38.2187rem;
+  display: flex;
+  align-items: flex-start;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-4.png');
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-ycv9-LKX {
+  margin: 0.4rem 10.95rem 0rem 0rem;
+  width: 19rem;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-ycv9-LKX .iletiim-bilgileri-er1 {
+  margin-bottom: 4.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-ycv9-LKX .yunus-emre-mah-2-yel-sok-no-2-mecidiyeky-istanbul-Zxy {
+  width: 100%;
+  max-width: 18.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-pwsj-dT3 {
+  margin-right: 14.75rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-pwsj-dT3 .kurumsal-n53 {
+  margin: 0rem 0rem 3.25rem 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-pwsj-dT3 .hakkmzda-kurucumuz-kalite-politikamz-teslimat-artlar-kalite-belgelerimiz-i-bavurusu-HnV {
+  max-width: 13.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-wv8z-NZ3 {
+  margin: 0.05rem 17.55rem 0rem 0rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-wv8z-NZ3 .bilgiler-JxV {
+  margin: 0rem 2.5rem 2.85rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-wv8z-NZ3 .veri-saklama-ve-imha-politikas-gizlilik-ve-erez-politikas-mesefali-sat-szlemesi-kiisel-verilerin-korunmas-ska-sorulan-sorular-BFb {
+  max-width: 15.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-h2eh-Rvd {
+  width: 10.6rem;
+  flex-shrink: 0;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-h2eh-Rvd .yardm-nWH {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-3-crq .auto-group-47nu-3LR .auto-group-h2eh-Rvd .yelik-adres-bilgilerim-sipari-takibi-iptal-iade-yardm-v6h {
+  width: 100%;
+  max-width: 10.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+}
